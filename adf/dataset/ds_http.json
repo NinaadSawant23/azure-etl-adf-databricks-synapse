@@ -10,7 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "HttpServerLocation",
-				"relativeUrl": "anshlambaoldgit/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Products.csv"
+				"relativeUrl": "NinaadSawant23/azure-etl-adf-databricks-synapse/refs/heads/master/source_data/AdventureWorks_Territories.csv"
 			},
 			"columnDelimiter": ",",
 			"escapeChar": "\\",

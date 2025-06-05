@@ -10,8 +10,8 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobFSLocation",
-				"fileName": "products.csv",
-				"folderPath": "products",
+				"fileName": "territories.csv",
+				"folderPath": "territories",
 				"fileSystem": "bronze"
 			},
 			"columnDelimiter": ",",
