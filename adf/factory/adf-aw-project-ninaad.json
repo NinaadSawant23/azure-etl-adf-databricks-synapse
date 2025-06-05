@@ -1,0 +1,9 @@
+{
+	"name": "adf-aw-project-ninaad",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "259c921c-0ad7-4d20-ad45-9dd7b3115314",
+		"tenantId": "b5b2263d-68aa-453e-b972-aa1421410f80"
+	}
+}
